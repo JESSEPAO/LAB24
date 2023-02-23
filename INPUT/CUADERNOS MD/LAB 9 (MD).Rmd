@@ -1,0 +1,94 @@
+---------------------------------------------------
+title: "LAB 9"
+author: "JESSICA PAOLA AGUILAR SERVIN"
+date: "2023-02-23"
+output: html_document
+-------------------------------------------------
+
+T1_03_ESPACIO PRODUCTO(2) - RELACIONAMIENTO "CASO REAL": EXPORTACIONES HIDALGUENSES
+Objetivo: Estimar el relacionamiento (relatedness, proximidad, métrica de distancia entre productos)
+En este ejercicio vamos a:
+  1. Cargar nuestra matriz de datos
+  2. Calcular co ocurrencias entre lugares y productos 
+  3. Estimar el relacionamiento, teniendo como input las co ocurrencias
+  4. Graficar
+  5. Exportar los resultados para trabajarlos con cytoscape o gephi
+
+#######################################
+ practica 2: exportaciones hidalguenses
+#######################################
+
+Abrir EconGeo
+```{r}
+library (EconGeo)
+```
+
+Seleccionar archivo desde la ruta de su ordenador
+
+```{r}
+M = as.matrix(
+  read.csv("~/GitHub/JPAS_LABS24/INPUT/CUADERNOS MD/INPUTLAB9_rca_2014.csv", 
+           sep = ",", 
+           header = T, 
+           row.names = 1))
+```
+
+Visualizar los primeros 10 datos de la matriz M
+```{r}
+head (M[,1:10])
+dim (M)
+```
+
+Co-ocurrencia entre personas/paises/estados (municipios-lugares)
+```{r}
+co.occurrence(M)
+```
+
+Co-ocurrencias entre los productos, deve ser transpuesta y crear un objeto c
+```{r}
+c= co.occurrence(t(M))
+```
+
+Visualizar objeto c
+```{r}
+c
+```
+
+Estima el relacionamiento o proximidad pero normalizado, para asegurar que el numero de co ocurrencias que observamos es mayor al numero de co ocurrencias probables (probailidad condicional)
+tie and Surfboard puede que no esten tan relacionados, abajo de  1 no es relacionado mientras que mayor a 1 si es relacionado
+
+```{r}
+r = relatedness(c)
+```
+
+visuzalizar obejto r
+```{r}
+r
+```
+
+
+Regla para transformar una matriz opcional (sólo para trabajar con datos binarios)
+```{r}
+r[r<1] = 0
+r[r>1] = 1
+```
+
+Visualizar r
+```{r}
+r
+```
+
+Graficar
+
+```{r}
+library (igraph)
+g1 = graph_from_adjacency_matrix(r, mode = "undirected")
+plot(g1)
+```
+
+Exportar resultados del relacionamiento binario
+```{r}
+write.csv(r,file = "relatedness.csv")
+write.csv(c,file = "cocurrences.csv")
+```
+

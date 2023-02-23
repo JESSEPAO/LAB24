@@ -1,0 +1,75 @@
+---
+title: "LAB ONE (MD)"
+author: "JESSICA PAOLA AGUILAR SERVIN"
+date: "2023-02-22"
+output: html_document
+---
+
+Es la estructura de red que AMAZON ocupa para hacer recomendaciones en base a tus compras actuales 
+```{r}
+M = as.matrix(read.csv("https://raw.githubusercontent.com/PABalland/ON/master/amz.csv", 
+                       sep = ",", 
+                       header = T, 
+                       row.names = 1))
+M 
+dim(M)
+
+```
+
+Ver sólo el vector de clientes que compran el producto "corbata" (producto de la columna 1)
+```{r}
+M[1:6, 1]
+```
+
+
+Ver sólo un fragmento de la base original, en relación a los dos productos que me interesan
+```{r}
+M[1:6, 1:2]
+```
+Computar grado de centralidad
+```{r}
+rowSums (M)
+```
+función útil para enfocarnos en productos y no sólo en clienteS
+```{r}
+t(M)
+```
+Suma de matrices
+```{r}
+M + M
+```
+ Crear nuevo un objeto llamado x
+```{r}
+X= M + M
+```
+ 
+Multiplicación de matrices checar tamaños
+```{r}
+M * M
+```
+Algoritmo para identificar para tener el número de veces que 2 productos han sido comprados por el mismo cliente...identificar productos que van frecuentemente juntos (co ocurrencias par)
+```{r}
+M %*% t(M)
+
+t(M) %*% M
+```
+Similaridad de productos (de gustos) matriz de co ocurrencia de productos
+```{r}
+P= t(M) %*% M
+```
+No es una matriz identidad (como en la correlación)
+```{r}
+diag(P)= 0
+```
+Similaridad de clientes - matriz de co ocurrencia de clientes
+```{r}
+C = M %*% t(M)
+```
+Visualizar C
+```{r}
+C
+```
+No es una matriz identidad (como en la correlación
+```{r}
+diag(C)=0
+```

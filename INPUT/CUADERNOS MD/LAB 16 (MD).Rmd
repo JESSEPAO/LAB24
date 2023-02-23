@@ -1,0 +1,64 @@
+----------------------------------------------
+title: "LAB 16"
+author: "JESSICA PAOLA AGUILAR SERVIN"
+date: "2023-02-23"
+output: html_document
+---------------------------------------------
+
+LABORATORIO - Analisis de Redes en R - Indicadores básicos Globales 
+```{r}
+library(EconGeo)
+```
+
+Cargar DATA
+```{r}
+EL= read.csv("https://raw.githubusercontent.com/PABalland/ON/master/lesmis-el.csv")
+```
+
+Ver encabezado
+```{r}
+head (EL)
+```
+
+Transformar a  matriz 
+```{r}
+MM <- get.matrix(EL)
+```
+
+Ver matriz simetrica (red no dirigida- red bidireccional)
+Diferencias entre red dirigida y no dirigida
+Esta es una red no dirigida porque la matriz de adyaciencias es simetrica
+
+Elaboramos grafica
+
+```{r}
+library(igraph)
+g <- graph_from_data_frame(d=EL, directed = FALSE)
+g
+```
+
+Visualizar objeto grafico
+```{r}
+plot(g)
+```
+
+Elimina los pesos
+```{r}
+EL$Weight = NULL
+```
+
+Visualizar resultados
+```{r}
+head(EL)
+```
+
+LLAMAR LIBRERIA 
+```{r}
+library(networkD3)
+```
+
+Generar gáfico con netword3
+```{r}
+simpleNetwork(EL)
+```
+

@@ -1,0 +1,163 @@
+--------------------------------------------
+title: "LAB 13"
+author: "JESSICA PAOLA AGUILAR SERVIN"
+date: "2023-02-23"
+output: html_document
+-------------------------------------------
+
+# LABORATORIO - Gráficos en R con ggplot2 
+
+Instalar paqueterias necesarias
+cargar libreria ggplot2
+```{r}
+library(ggplot2)
+```
+
+Leer Bases de datos
+```{r}
+green_data <- read.csv("~/GitHub/JPAS_LAB13/INPUT/REGESIONES FINALES.csv")
+```
+
+Echando un ojo a los datos
+```{r}
+names(green_data)
+```
+
+Generar primer grafico
+```{r}
+
+p1 <- ggplot(data = green_data, 
+             mapping = aes(x = ICE_index, 
+                           y = GCI_index,)) +
+geom_point()+
+  geom_text(label= green_data$STATE,
+            color= "black",
+            size= 4)+
+  geom_point() +
+  geom_smooth(method = lm,
+              se=FALSE,
+              fullrange =T)
+```
+
+Visualizar p1
+```{r}
+p1
+```
+
+Generar segundo grafico reciclado del codigo anterior
+
+```{r}
+p2 <- ggplot(data = green_data, 
+             mapping = aes(x = ICE_rank, 
+                           y = GCI_rank,)) +
+  geom_point()+
+  geom_text(label= green_data$STATE,
+            color= "black",
+            size= 4)+
+  geom_point() +
+  geom_smooth(method = lm,
+              se=FALSE,
+              fullrange =T)
+```
+
+Visualizar p2
+```{r}
+p2
+```
+
+Generar tercer grafico
+```{r}
+p3 <- ggplot(data = green_data, 
+             mapping = aes(x = LPIBE, 
+                           y = GCI_index,)) +
+  geom_point()+
+  geom_text(label= green_data$STATE,
+            color= "black",
+            size= 4)+
+  geom_point() +
+  geom_smooth(method = lm,
+              se=FALSE,
+              fullrange =T)
+```
+
+VIsualizar p3
+```{r}
+p3
+```
+
+Correlación entre las primeras variables
+```{r}
+install.packages
+```
+
+Cargar libreria
+```{r}
+library(psych)
+```
+
+Cargar la libreria y creación
+```{r}
+library(readr)
+correl <- read_csv("~/GitHub/JPAS_LABS24/INPUT/CUADERNOS MD/correl.csv")
+```
+
+VIsualizar tabla anterior
+```{r}
+head(correl)
+```
+
+Correlacionar de forma pariada las variables de la tabla generada
+```{r}
+attach(correl)
+names(correl)
+pairs(correl)
+pairs.panels(correl)
+```
+
+correl2
+Calculamos la correlación 
+```{r}
+complex_corr <- cor(correl, method = "pearson")
+complex_corr
+```
+
+Redondeamos
+```{r}
+complex_corr =round(complex_corr, digits=2)
+complex_corr
+```
+
+Gerar mapa de calor
+Llamar librerias
+```{r}
+library(ggcorrplot)
+library(ggplot2)
+```
+
+Generar grafico 4
+```{r}
+p4 <- ggcorrplot(complex_corr, method = "circle", type= "lower", lab= TRUE)
+ggtitle("Matriz de correlación")+
+theme_minimal()
+```
+
+Visualizar resultados
+```{r}
+p4
+```
+
+Para generar un conjunto de graficos en una sola cuadricula
+Llamar al paquete
+```{r}
+require(ggpubr)
+ggpubr :: ggarrange (p1, p2, p3, p4, etiquetas = c ("A", "B", "C" , "D"))
+```
+
+Visualizacion de un grid 
+```{r}
+library(ggplot2)
+require (gridExtra)
+F1 <- grid.arrange (p1, p2, p3, p4, nrow = 2)
+```
+
+

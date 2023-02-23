@@ -1,0 +1,1163 @@
+"","MUNICIPIO","iteracion","ranking"
+"1","Acatlan","Km,0",22
+"2","Acatlan","Km,2",21
+"3","Acatlan","Km,4",20
+"4","Acatlan","Km,6",19
+"5","Acatlan","Km,8",19
+"6","Acatlan","km,10",19
+"7","Acatlan","km,12",18
+"8","Acatlan","km,14",18
+"9","Acatlan","km,16",18
+"10","Acatlan","km,18",18
+"11","Acatlan","km,20",17
+"12","Acatlan","km,22",17
+"13","Acatlan","km,24",17
+"14","Acatlan","km,26",17
+"15","Acaxochitlan","Km,0",24
+"16","Acaxochitlan","Km,2",27
+"17","Acaxochitlan","Km,4",26
+"18","Acaxochitlan","Km,6",25
+"19","Acaxochitlan","Km,8",24
+"20","Acaxochitlan","km,10",22
+"21","Acaxochitlan","km,12",22
+"22","Acaxochitlan","km,14",22
+"23","Acaxochitlan","km,16",22
+"24","Acaxochitlan","km,18",22
+"25","Acaxochitlan","km,20",22
+"26","Acaxochitlan","km,22",22
+"27","Acaxochitlan","km,24",22
+"28","Acaxochitlan","km,26",22
+"29","Actopan","Km,0",11
+"30","Actopan","Km,2",17
+"31","Actopan","Km,4",22
+"32","Actopan","Km,6",21
+"33","Actopan","Km,8",21
+"34","Actopan","km,10",20
+"35","Actopan","km,12",20
+"36","Actopan","km,14",20
+"37","Actopan","km,16",20
+"38","Actopan","km,18",20
+"39","Actopan","km,20",20
+"40","Actopan","km,22",21
+"41","Actopan","km,24",21
+"42","Actopan","km,26",21
+"43","ABI","Km,0",71
+"44","ABI","Km,2",46
+"45","ABI","Km,4",50
+"46","ABI","Km,6",49
+"47","ABI","Km,8",49
+"48","ABI","km,10",49
+"49","ABI","km,12",50
+"50","ABI","km,14",50
+"51","ABI","km,16",50
+"52","ABI","km,18",50
+"53","ABI","km,20",50
+"54","ABI","km,22",50
+"55","ABI","km,24",50
+"56","ABI","km,26",50
+"57","Ajacuba","Km,0",30
+"58","Ajacuba","Km,2",47
+"59","Ajacuba","Km,4",44
+"60","Ajacuba","Km,6",44
+"61","Ajacuba","Km,8",43
+"62","Ajacuba","km,10",43
+"63","Ajacuba","km,12",43
+"64","Ajacuba","km,14",43
+"65","Ajacuba","km,16",43
+"66","Ajacuba","km,18",43
+"67","Ajacuba","km,20",43
+"68","Ajacuba","km,22",43
+"69","Ajacuba","km,24",43
+"70","Ajacuba","km,26",43
+"71","Alfajayucan","Km,0",31
+"72","Alfajayucan","Km,2",16
+"73","Alfajayucan","Km,4",18
+"74","Alfajayucan","Km,6",20
+"75","Alfajayucan","Km,8",20
+"76","Alfajayucan","km,10",21
+"77","Alfajayucan","km,12",21
+"78","Alfajayucan","km,14",21
+"79","Alfajayucan","km,16",21
+"80","Alfajayucan","km,18",21
+"81","Alfajayucan","km,20",21
+"82","Alfajayucan","km,22",20
+"83","Alfajayucan","km,24",20
+"84","Alfajayucan","km,26",20
+"85","Almoloya","Km,0",32
+"86","Almoloya","Km,2",36
+"87","Almoloya","Km,4",38
+"88","Almoloya","Km,6",39
+"89","Almoloya","Km,8",39
+"90","Almoloya","km,10",40
+"91","Almoloya","km,12",40
+"92","Almoloya","km,14",40
+"93","Almoloya","km,16",40
+"94","Almoloya","km,18",40
+"95","Almoloya","km,20",40
+"96","Almoloya","km,22",40
+"97","Almoloya","km,24",40
+"98","Almoloya","km,26",40
+"99","Apan","Km,0",16
+"100","Apan","Km,2",15
+"101","Apan","Km,4",15
+"102","Apan","Km,6",16
+"103","Apan","Km,8",17
+"104","Apan","km,10",16
+"105","Apan","km,12",16
+"106","Apan","km,14",16
+"107","Apan","km,16",16
+"108","Apan","km,18",16
+"109","Apan","km,20",16
+"110","Apan","km,22",16
+"111","Apan","km,24",16
+"112","Apan","km,26",16
+"113","El Arenal","Km,0",66
+"114","El Arenal","Km,2",54
+"115","El Arenal","Km,4",54
+"116","El Arenal","Km,6",53
+"117","El Arenal","Km,8",51
+"118","El Arenal","km,10",50
+"119","El Arenal","km,12",49
+"120","El Arenal","km,14",49
+"121","El Arenal","km,16",49
+"122","El Arenal","km,18",49
+"123","El Arenal","km,20",49
+"124","El Arenal","km,22",49
+"125","El Arenal","km,24",49
+"126","El Arenal","km,26",49
+"127","Atitalaquia","Km,0",5
+"128","Atitalaquia","Km,2",5
+"129","Atitalaquia","Km,4",5
+"130","Atitalaquia","Km,6",4
+"131","Atitalaquia","Km,8",3
+"132","Atitalaquia","km,10",2
+"133","Atitalaquia","km,12",2
+"134","Atitalaquia","km,14",2
+"135","Atitalaquia","km,16",2
+"136","Atitalaquia","km,18",2
+"137","Atitalaquia","km,20",2
+"138","Atitalaquia","km,22",2
+"139","Atitalaquia","km,24",2
+"140","Atitalaquia","km,26",2
+"141","Atlapexco","Km,0",55
+"142","Atlapexco","Km,2",62
+"143","Atlapexco","Km,4",60
+"144","Atlapexco","Km,6",63
+"145","Atlapexco","Km,8",66
+"146","Atlapexco","km,10",66
+"147","Atlapexco","km,12",66
+"148","Atlapexco","km,14",66
+"149","Atlapexco","km,16",66
+"150","Atlapexco","km,18",66
+"151","Atlapexco","km,20",66
+"152","Atlapexco","km,22",66
+"153","Atlapexco","km,24",66
+"154","Atlapexco","km,26",66
+"155","Atotonilco El Grande","Km,0",28
+"156","Atotonilco El Grande","Km,2",44
+"157","Atotonilco El Grande","Km,4",45
+"158","Atotonilco El Grande","Km,6",46
+"159","Atotonilco El Grande","Km,8",46
+"160","Atotonilco El Grande","km,10",46
+"161","Atotonilco El Grande","km,12",46
+"162","Atotonilco El Grande","km,14",46
+"163","Atotonilco El Grande","km,16",46
+"164","Atotonilco El Grande","km,18",47
+"165","Atotonilco El Grande","km,20",47
+"166","Atotonilco El Grande","km,22",47
+"167","Atotonilco El Grande","km,24",47
+"168","Atotonilco El Grande","km,26",47
+"169","Atotonilco De Tula","Km,0",8
+"170","Atotonilco De Tula","Km,2",7
+"171","Atotonilco De Tula","Km,4",8
+"172","Atotonilco De Tula","Km,6",8
+"173","Atotonilco De Tula","Km,8",9
+"174","Atotonilco De Tula","km,10",8
+"175","Atotonilco De Tula","km,12",9
+"176","Atotonilco De Tula","km,14",9
+"177","Atotonilco De Tula","km,16",9
+"178","Atotonilco De Tula","km,18",9
+"179","Atotonilco De Tula","km,20",9
+"180","Atotonilco De Tula","km,22",8
+"181","Atotonilco De Tula","km,24",8
+"182","Atotonilco De Tula","km,26",8
+"183","Calnali","Km,0",46
+"184","Calnali","Km,2",68
+"185","Calnali","Km,4",67
+"186","Calnali","Km,6",67
+"187","Calnali","Km,8",67
+"188","Calnali","km,10",67
+"189","Calnali","km,12",67
+"190","Calnali","km,14",67
+"191","Calnali","km,16",67
+"192","Calnali","km,18",67
+"193","Calnali","km,20",67
+"194","Calnali","km,22",67
+"195","Calnali","km,24",67
+"196","Calnali","km,26",67
+"197","Cardonal","Km,0",56
+"198","Cardonal","Km,2",35
+"199","Cardonal","Km,4",35
+"200","Cardonal","Km,6",34
+"201","Cardonal","Km,8",34
+"202","Cardonal","km,10",34
+"203","Cardonal","km,12",34
+"204","Cardonal","km,14",35
+"205","Cardonal","km,16",35
+"206","Cardonal","km,18",34
+"207","Cardonal","km,20",34
+"208","Cardonal","km,22",34
+"209","Cardonal","km,24",33
+"210","Cardonal","km,26",33
+"211","Cuautepec","Km,0",15
+"212","Cuautepec","Km,2",29
+"213","Cuautepec","Km,4",29
+"214","Cuautepec","Km,6",28
+"215","Cuautepec","Km,8",27
+"216","Cuautepec","km,10",26
+"217","Cuautepec","km,12",26
+"218","Cuautepec","km,14",25
+"219","Cuautepec","km,16",24
+"220","Cuautepec","km,18",24
+"221","Cuautepec","km,20",24
+"222","Cuautepec","km,22",23
+"223","Cuautepec","km,24",24
+"224","Cuautepec","km,26",24
+"225","Chapantongo","Km,0",72
+"226","Chapantongo","Km,2",20
+"227","Chapantongo","Km,4",23
+"228","Chapantongo","Km,6",23
+"229","Chapantongo","Km,8",25
+"230","Chapantongo","km,10",25
+"231","Chapantongo","km,12",24
+"232","Chapantongo","km,14",24
+"233","Chapantongo","km,16",25
+"234","Chapantongo","km,18",25
+"235","Chapantongo","km,20",25
+"236","Chapantongo","km,22",24
+"237","Chapantongo","km,24",23
+"238","Chapantongo","km,26",23
+"239","Chapulhuacan","Km,0",57
+"240","Chapulhuacan","Km,2",64
+"241","Chapulhuacan","Km,4",70
+"242","Chapulhuacan","Km,6",70
+"243","Chapulhuacan","Km,8",70
+"244","Chapulhuacan","km,10",71
+"245","Chapulhuacan","km,12",71
+"246","Chapulhuacan","km,14",71
+"247","Chapulhuacan","km,16",71
+"248","Chapulhuacan","km,18",71
+"249","Chapulhuacan","km,20",71
+"250","Chapulhuacan","km,22",71
+"251","Chapulhuacan","km,24",71
+"252","Chapulhuacan","km,26",71
+"253","Chilcuautla","Km,0",33
+"254","Chilcuautla","Km,2",57
+"255","Chilcuautla","Km,4",55
+"256","Chilcuautla","Km,6",54
+"257","Chilcuautla","Km,8",53
+"258","Chilcuautla","km,10",52
+"259","Chilcuautla","km,12",51
+"260","Chilcuautla","km,14",51
+"261","Chilcuautla","km,16",51
+"262","Chilcuautla","km,18",51
+"263","Chilcuautla","km,20",51
+"264","Chilcuautla","km,22",51
+"265","Chilcuautla","km,24",51
+"266","Chilcuautla","km,26",51
+"267","Eloxochitlan","Km,0",47
+"268","Eloxochitlan","Km,2",71
+"269","Eloxochitlan","Km,4",71
+"270","Eloxochitlan","Km,6",71
+"271","Eloxochitlan","Km,8",71
+"272","Eloxochitlan","km,10",70
+"273","Eloxochitlan","km,12",70
+"274","Eloxochitlan","km,14",70
+"275","Eloxochitlan","km,16",70
+"276","Eloxochitlan","km,18",70
+"277","Eloxochitlan","km,20",70
+"278","Eloxochitlan","km,22",70
+"279","Eloxochitlan","km,24",70
+"280","Eloxochitlan","km,26",70
+"281","Emiliano Zapata","Km,0",39
+"282","Emiliano Zapata","Km,2",22
+"283","Emiliano Zapata","Km,4",16
+"284","Emiliano Zapata","Km,6",15
+"285","Emiliano Zapata","Km,8",16
+"286","Emiliano Zapata","km,10",17
+"287","Emiliano Zapata","km,12",17
+"288","Emiliano Zapata","km,14",17
+"289","Emiliano Zapata","km,16",17
+"290","Emiliano Zapata","km,18",17
+"291","Emiliano Zapata","km,20",18
+"292","Emiliano Zapata","km,22",18
+"293","Emiliano Zapata","km,24",18
+"294","Emiliano Zapata","km,26",18
+"295","Epazoyucan","Km,0",67
+"296","Epazoyucan","Km,2",33
+"297","Epazoyucan","Km,4",30
+"298","Epazoyucan","Km,6",30
+"299","Epazoyucan","Km,8",30
+"300","Epazoyucan","km,10",30
+"301","Epazoyucan","km,12",30
+"302","Epazoyucan","km,14",30
+"303","Epazoyucan","km,16",30
+"304","Epazoyucan","km,18",31
+"305","Epazoyucan","km,20",31
+"306","Epazoyucan","km,22",31
+"307","Epazoyucan","km,24",31
+"308","Epazoyucan","km,26",31
+"309","Francisco I.Madero","Km,0",34
+"310","Francisco I.Madero","Km,2",49
+"311","Francisco I.Madero","Km,4",46
+"312","Francisco I.Madero","Km,6",45
+"313","Francisco I.Madero","Km,8",45
+"314","Francisco I.Madero","km,10",45
+"315","Francisco I.Madero","km,12",44
+"316","Francisco I.Madero","km,14",44
+"317","Francisco I.Madero","km,16",44
+"318","Francisco I.Madero","km,18",44
+"319","Francisco I.Madero","km,20",44
+"320","Francisco I.Madero","km,22",44
+"321","Francisco I.Madero","km,24",44
+"322","Francisco I.Madero","km,26",44
+"323","Huasca","Km,0",58
+"324","Huasca","Km,2",59
+"325","Huasca","Km,4",61
+"326","Huasca","Km,6",61
+"327","Huasca","Km,8",61
+"328","Huasca","km,10",60
+"329","Huasca","km,12",60
+"330","Huasca","km,14",60
+"331","Huasca","km,16",60
+"332","Huasca","km,18",61
+"333","Huasca","km,20",61
+"334","Huasca","km,22",61
+"335","Huasca","km,24",61
+"336","Huasca","km,26",61
+"337","Huautla","Km,0",48
+"338","Huautla","Km,2",61
+"339","Huautla","Km,4",59
+"340","Huautla","Km,6",59
+"341","Huautla","Km,8",60
+"342","Huautla","km,10",63
+"343","Huautla","km,12",63
+"344","Huautla","km,14",63
+"345","Huautla","km,16",63
+"346","Huautla","km,18",65
+"347","Huautla","km,20",65
+"348","Huautla","km,22",65
+"349","Huautla","km,24",65
+"350","Huautla","km,26",65
+"351","Huazalingo","Km,0",73
+"352","Huazalingo","Km,2",81
+"353","Huazalingo","Km,4",78
+"354","Huazalingo","Km,6",78
+"355","Huazalingo","Km,8",77
+"356","Huazalingo","km,10",77
+"357","Huazalingo","km,12",77
+"358","Huazalingo","km,14",77
+"359","Huazalingo","km,16",77
+"360","Huazalingo","km,18",77
+"361","Huazalingo","km,20",77
+"362","Huazalingo","km,22",77
+"363","Huazalingo","km,24",77
+"364","Huazalingo","km,26",77
+"365","Huehuetla","Km,0",74
+"366","Huehuetla","Km,2",66
+"367","Huehuetla","Km,4",63
+"368","Huehuetla","Km,6",64
+"369","Huehuetla","Km,8",64
+"370","Huehuetla","km,10",64
+"371","Huehuetla","km,12",64
+"372","Huehuetla","km,14",64
+"373","Huehuetla","km,16",64
+"374","Huehuetla","km,18",63
+"375","Huehuetla","km,20",63
+"376","Huehuetla","km,22",63
+"377","Huehuetla","km,24",63
+"378","Huehuetla","km,26",63
+"379","Huejutla","Km,0",10
+"380","Huejutla","Km,2",12
+"381","Huejutla","Km,4",14
+"382","Huejutla","Km,6",14
+"383","Huejutla","Km,8",14
+"384","Huejutla","km,10",15
+"385","Huejutla","km,12",15
+"386","Huejutla","km,14",15
+"387","Huejutla","km,16",15
+"388","Huejutla","km,18",15
+"389","Huejutla","km,20",15
+"390","Huejutla","km,22",15
+"391","Huejutla","km,24",15
+"392","Huejutla","km,26",15
+"393","Huichapan","Km,0",13
+"394","Huichapan","Km,2",25
+"395","Huichapan","Km,4",25
+"396","Huichapan","Km,6",24
+"397","Huichapan","Km,8",23
+"398","Huichapan","km,10",23
+"399","Huichapan","km,12",23
+"400","Huichapan","km,14",23
+"401","Huichapan","km,16",23
+"402","Huichapan","km,18",23
+"403","Huichapan","km,20",23
+"404","Huichapan","km,22",25
+"405","Huichapan","km,24",25
+"406","Huichapan","km,26",25
+"407","Ixmiquilpan","Km,0",17
+"408","Ixmiquilpan","Km,2",39
+"409","Ixmiquilpan","Km,4",41
+"410","Ixmiquilpan","Km,6",41
+"411","Ixmiquilpan","Km,8",41
+"412","Ixmiquilpan","km,10",41
+"413","Ixmiquilpan","km,12",41
+"414","Ixmiquilpan","km,14",41
+"415","Ixmiquilpan","km,16",41
+"416","Ixmiquilpan","km,18",41
+"417","Ixmiquilpan","km,20",41
+"418","Ixmiquilpan","km,22",41
+"419","Ixmiquilpan","km,24",41
+"420","Ixmiquilpan","km,26",41
+"421","Jacala","Km,0",36
+"422","Jacala","Km,2",56
+"423","Jacala","Km,4",58
+"424","Jacala","Km,6",58
+"425","Jacala","Km,8",58
+"426","Jacala","km,10",58
+"427","Jacala","km,12",59
+"428","Jacala","km,14",59
+"429","Jacala","km,16",59
+"430","Jacala","km,18",59
+"431","Jacala","km,20",59
+"432","Jacala","km,22",59
+"433","Jacala","km,24",59
+"434","Jacala","km,26",59
+"435","Jaltocan","Km,0",75
+"436","Jaltocan","Km,2",40
+"437","Jaltocan","Km,4",47
+"438","Jaltocan","Km,6",51
+"439","Jaltocan","Km,8",52
+"440","Jaltocan","km,10",55
+"441","Jaltocan","km,12",55
+"442","Jaltocan","km,14",55
+"443","Jaltocan","km,16",55
+"444","Jaltocan","km,18",55
+"445","Jaltocan","km,20",55
+"446","Jaltocan","km,22",55
+"447","Jaltocan","km,24",55
+"448","Jaltocan","km,26",55
+"449","Juarez Hidalgo","Km,0",76
+"450","Juarez Hidalgo","Km,2",63
+"451","Juarez Hidalgo","Km,4",65
+"452","Juarez Hidalgo","Km,6",60
+"453","Juarez Hidalgo","Km,8",59
+"454","Juarez Hidalgo","km,10",59
+"455","Juarez Hidalgo","km,12",58
+"456","Juarez Hidalgo","km,14",58
+"457","Juarez Hidalgo","km,16",58
+"458","Juarez Hidalgo","km,18",58
+"459","Juarez Hidalgo","km,20",58
+"460","Juarez Hidalgo","km,22",58
+"461","Juarez Hidalgo","km,24",58
+"462","Juarez Hidalgo","km,26",58
+"463","Lolotla","Km,0",68
+"464","Lolotla","Km,2",76
+"465","Lolotla","Km,4",76
+"466","Lolotla","Km,6",75
+"467","Lolotla","Km,8",75
+"468","Lolotla","km,10",75
+"469","Lolotla","km,12",75
+"470","Lolotla","km,14",75
+"471","Lolotla","km,16",75
+"472","Lolotla","km,18",75
+"473","Lolotla","km,20",75
+"474","Lolotla","km,22",75
+"475","Lolotla","km,24",75
+"476","Lolotla","km,26",75
+"477","Metepec","Km,0",20
+"478","Metepec","Km,2",18
+"479","Metepec","Km,4",17
+"480","Metepec","Km,6",18
+"481","Metepec","Km,8",18
+"482","Metepec","km,10",18
+"483","Metepec","km,12",19
+"484","Metepec","km,14",19
+"485","Metepec","km,16",19
+"486","Metepec","km,18",19
+"487","Metepec","km,20",19
+"488","Metepec","km,22",19
+"489","Metepec","km,24",19
+"490","Metepec","km,26",19
+"491","SAM","Km,0",35
+"492","SAM","Km,2",42
+"493","SAM","Km,4",48
+"494","SAM","Km,6",50
+"495","SAM","Km,8",50
+"496","SAM","km,10",51
+"497","SAM","km,12",52
+"498","SAM","km,14",52
+"499","SAM","km,16",53
+"500","SAM","km,18",53
+"501","SAM","km,20",53
+"502","SAM","km,22",53
+"503","SAM","km,24",53
+"504","SAM","km,26",53
+"505","Metztitlan","Km,0",40
+"506","Metztitlan","Km,2",60
+"507","Metztitlan","Km,4",62
+"508","Metztitlan","Km,6",62
+"509","Metztitlan","Km,8",62
+"510","Metztitlan","km,10",61
+"511","Metztitlan","km,12",62
+"512","Metztitlan","km,14",62
+"513","Metztitlan","km,16",62
+"514","Metztitlan","km,18",62
+"515","Metztitlan","km,20",62
+"516","Metztitlan","km,22",62
+"517","Metztitlan","km,24",62
+"518","Metztitlan","km,26",62
+"519","Mineral Del Chico","Km,0",80
+"520","Mineral Del Chico","Km,2",83
+"521","Mineral Del Chico","Km,4",83
+"522","Mineral Del Chico","Km,6",83
+"523","Mineral Del Chico","Km,8",83
+"524","Mineral Del Chico","km,10",83
+"525","Mineral Del Chico","km,12",83
+"526","Mineral Del Chico","km,14",83
+"527","Mineral Del Chico","km,16",83
+"528","Mineral Del Chico","km,18",83
+"529","Mineral Del Chico","km,20",83
+"530","Mineral Del Chico","km,22",83
+"531","Mineral Del Chico","km,24",83
+"532","Mineral Del Chico","km,26",83
+"533","Mineral Del Monte","Km,0",82
+"534","Mineral Del Monte","Km,2",43
+"535","Mineral Del Monte","Km,4",39
+"536","Mineral Del Monte","Km,6",37
+"537","Mineral Del Monte","Km,8",37
+"538","Mineral Del Monte","km,10",38
+"539","Mineral Del Monte","km,12",38
+"540","Mineral Del Monte","km,14",39
+"541","Mineral Del Monte","km,16",39
+"542","Mineral Del Monte","km,18",39
+"543","Mineral Del Monte","km,20",39
+"544","Mineral Del Monte","km,22",39
+"545","Mineral Del Monte","km,24",39
+"546","Mineral Del Monte","km,26",39
+"547","La Mision","Km,0",77
+"548","La Mision","Km,2",79
+"549","La Mision","Km,4",80
+"550","La Mision","Km,6",80
+"551","La Mision","Km,8",79
+"552","La Mision","km,10",79
+"553","La Mision","km,12",79
+"554","La Mision","km,14",79
+"555","La Mision","km,16",79
+"556","La Mision","km,18",79
+"557","La Mision","km,20",79
+"558","La Mision","km,22",79
+"559","La Mision","km,24",79
+"560","La Mision","km,26",79
+"561","Mixquiahuala","Km,0",14
+"562","Mixquiahuala","Km,2",26
+"563","Mixquiahuala","Km,4",27
+"564","Mixquiahuala","Km,6",27
+"565","Mixquiahuala","Km,8",26
+"566","Mixquiahuala","km,10",27
+"567","Mixquiahuala","km,12",27
+"568","Mixquiahuala","km,14",27
+"569","Mixquiahuala","km,16",27
+"570","Mixquiahuala","km,18",26
+"571","Mixquiahuala","km,20",26
+"572","Mixquiahuala","km,22",26
+"573","Mixquiahuala","km,24",26
+"574","Mixquiahuala","km,26",26
+"575","Molango","Km,0",49
+"576","Molango","Km,2",69
+"577","Molango","Km,4",68
+"578","Molango","Km,6",68
+"579","Molango","Km,8",68
+"580","Molango","km,10",68
+"581","Molango","km,12",68
+"582","Molango","km,14",68
+"583","Molango","km,16",68
+"584","Molango","km,18",68
+"585","Molango","km,20",68
+"586","Molango","km,22",68
+"587","Molango","km,24",68
+"588","Molango","km,26",68
+"589","Nicolas Flores","Km,0",69
+"590","Nicolas Flores","Km,2",55
+"591","Nicolas Flores","Km,4",57
+"592","Nicolas Flores","Km,6",57
+"593","Nicolas Flores","Km,8",56
+"594","Nicolas Flores","km,10",56
+"595","Nicolas Flores","km,12",56
+"596","Nicolas Flores","km,14",56
+"597","Nicolas Flores","km,16",56
+"598","Nicolas Flores","km,18",56
+"599","Nicolas Flores","km,20",56
+"600","Nicolas Flores","km,22",56
+"601","Nicolas Flores","km,24",56
+"602","Nicolas Flores","km,26",56
+"603","Nopala","Km,0",59
+"604","Nopala","Km,2",11
+"605","Nopala","Km,4",9
+"606","Nopala","Km,6",9
+"607","Nopala","Km,8",10
+"608","Nopala","km,10",12
+"609","Nopala","km,12",12
+"610","Nopala","km,14",12
+"611","Nopala","km,16",12
+"612","Nopala","km,18",12
+"613","Nopala","km,20",12
+"614","Nopala","km,22",12
+"615","Nopala","km,24",12
+"616","Nopala","km,26",12
+"617","SFO","Km,0",50
+"618","SFO","Km,2",52
+"619","SFO","Km,4",52
+"620","SFO","Km,6",52
+"621","SFO","Km,8",54
+"622","SFO","km,10",54
+"623","SFO","km,12",54
+"624","SFO","km,14",54
+"625","SFO","km,16",54
+"626","SFO","km,18",54
+"627","SFO","km,20",54
+"628","SFO","km,22",54
+"629","SFO","km,24",54
+"630","SFO","km,26",54
+"631","Pacula","Km,0",83
+"632","Pacula","Km,2",72
+"633","Pacula","Km,4",66
+"634","Pacula","Km,6",66
+"635","Pacula","Km,8",63
+"636","Pacula","km,10",62
+"637","Pacula","km,12",61
+"638","Pacula","km,14",61
+"639","Pacula","km,16",61
+"640","Pacula","km,18",60
+"641","Pacula","km,20",60
+"642","Pacula","km,22",60
+"643","Pacula","km,24",60
+"644","Pacula","km,26",60
+"645","Pachuca","Km,0",1
+"646","Pachuca","Km,2",2
+"647","Pachuca","Km,4",3
+"648","Pachuca","Km,6",3
+"649","Pachuca","Km,8",5
+"650","Pachuca","km,10",5
+"651","Pachuca","km,12",5
+"652","Pachuca","km,14",5
+"653","Pachuca","km,16",5
+"654","Pachuca","km,18",5
+"655","Pachuca","km,20",6
+"656","Pachuca","km,22",6
+"657","Pachuca","km,24",6
+"658","Pachuca","km,26",6
+"659","Pisaflores","Km,0",60
+"660","Pisaflores","Km,2",74
+"661","Pisaflores","Km,4",72
+"662","Pisaflores","Km,6",74
+"663","Pisaflores","Km,8",74
+"664","Pisaflores","km,10",74
+"665","Pisaflores","km,12",74
+"666","Pisaflores","km,14",74
+"667","Pisaflores","km,16",74
+"668","Pisaflores","km,18",74
+"669","Pisaflores","km,20",74
+"670","Pisaflores","km,22",74
+"671","Pisaflores","km,24",74
+"672","Pisaflores","km,26",74
+"673","Progreso","Km,0",23
+"674","Progreso","Km,2",30
+"675","Progreso","Km,4",31
+"676","Progreso","Km,6",32
+"677","Progreso","Km,8",33
+"678","Progreso","km,10",33
+"679","Progreso","km,12",33
+"680","Progreso","km,14",33
+"681","Progreso","km,16",34
+"682","Progreso","km,18",35
+"683","Progreso","km,20",35
+"684","Progreso","km,22",35
+"685","Progreso","km,24",35
+"686","Progreso","km,26",35
+"687","Mineral De La Reforma","Km,0",4
+"688","Mineral De La Reforma","Km,2",4
+"689","Mineral De La Reforma","Km,4",4
+"690","Mineral De La Reforma","Km,6",5
+"691","Mineral De La Reforma","Km,8",4
+"692","Mineral De La Reforma","km,10",4
+"693","Mineral De La Reforma","km,12",4
+"694","Mineral De La Reforma","km,14",4
+"695","Mineral De La Reforma","km,16",4
+"696","Mineral De La Reforma","km,18",4
+"697","Mineral De La Reforma","km,20",4
+"698","Mineral De La Reforma","km,22",4
+"699","Mineral De La Reforma","km,24",5
+"700","Mineral De La Reforma","km,26",5
+"701","San Agustin Tlaxiaca","Km,0",37
+"702","San Agustin Tlaxiaca","Km,2",28
+"703","San Agustin Tlaxiaca","Km,4",28
+"704","San Agustin Tlaxiaca","Km,6",29
+"705","San Agustin Tlaxiaca","Km,8",29
+"706","San Agustin Tlaxiaca","km,10",29
+"707","San Agustin Tlaxiaca","km,12",29
+"708","San Agustin Tlaxiaca","km,14",29
+"709","San Agustin Tlaxiaca","km,16",29
+"710","San Agustin Tlaxiaca","km,18",29
+"711","San Agustin Tlaxiaca","km,20",29
+"712","San Agustin Tlaxiaca","km,22",29
+"713","San Agustin Tlaxiaca","km,24",29
+"714","San Agustin Tlaxiaca","km,26",29
+"715","SBT","Km,0",81
+"716","SBT","Km,2",80
+"717","SBT","Km,4",82
+"718","SBT","Km,6",82
+"719","SBT","Km,8",82
+"720","SBT","km,10",82
+"721","SBT","km,12",82
+"722","SBT","km,14",82
+"723","SBT","km,16",81
+"724","SBT","km,18",81
+"725","SBT","km,20",81
+"726","SBT","km,22",81
+"727","SBT","km,24",81
+"728","SBT","km,26",81
+"729","San Salvador","Km,0",25
+"730","San Salvador","Km,2",34
+"731","San Salvador","Km,4",36
+"732","San Salvador","Km,6",35
+"733","San Salvador","Km,8",35
+"734","San Salvador","km,10",35
+"735","San Salvador","km,12",35
+"736","San Salvador","km,14",34
+"737","San Salvador","km,16",33
+"738","San Salvador","km,18",33
+"739","San Salvador","km,20",32
+"740","San Salvador","km,22",32
+"741","San Salvador","km,24",32
+"742","San Salvador","km,26",32
+"743","Santiago De Anaya","Km,0",61
+"744","Santiago De Anaya","Km,2",53
+"745","Santiago De Anaya","Km,4",51
+"746","Santiago De Anaya","Km,6",48
+"747","Santiago De Anaya","Km,8",48
+"748","Santiago De Anaya","km,10",48
+"749","Santiago De Anaya","km,12",48
+"750","Santiago De Anaya","km,14",48
+"751","Santiago De Anaya","km,16",48
+"752","Santiago De Anaya","km,18",48
+"753","Santiago De Anaya","km,20",48
+"754","Santiago De Anaya","km,22",48
+"755","Santiago De Anaya","km,24",48
+"756","Santiago De Anaya","km,26",48
+"757","Lugo Guerrero","Km,0",12
+"758","Lugo Guerrero","Km,2",13
+"759","Lugo Guerrero","Km,4",10
+"760","Lugo Guerrero","Km,6",10
+"761","Lugo Guerrero","Km,8",11
+"762","Lugo Guerrero","km,10",11
+"763","Lugo Guerrero","km,12",11
+"764","Lugo Guerrero","km,14",11
+"765","Lugo Guerrero","km,16",11
+"766","Lugo Guerrero","km,18",11
+"767","Lugo Guerrero","km,20",11
+"768","Lugo Guerrero","km,22",11
+"769","Lugo Guerrero","km,24",11
+"770","Lugo Guerrero","km,26",11
+"771","Singuilucan","Km,0",26
+"772","Singuilucan","Km,2",24
+"773","Singuilucan","Km,4",19
+"774","Singuilucan","Km,6",17
+"775","Singuilucan","Km,8",15
+"776","Singuilucan","km,10",14
+"777","Singuilucan","km,12",14
+"778","Singuilucan","km,14",14
+"779","Singuilucan","km,16",14
+"780","Singuilucan","km,18",14
+"781","Singuilucan","km,20",14
+"782","Singuilucan","km,22",14
+"783","Singuilucan","km,24",14
+"784","Singuilucan","km,26",14
+"785","Tasquillo","Km,0",62
+"786","Tasquillo","Km,2",45
+"787","Tasquillo","Km,4",42
+"788","Tasquillo","Km,6",42
+"789","Tasquillo","Km,8",42
+"790","Tasquillo","km,10",42
+"791","Tasquillo","km,12",42
+"792","Tasquillo","km,14",42
+"793","Tasquillo","km,16",42
+"794","Tasquillo","km,18",42
+"795","Tasquillo","km,20",42
+"796","Tasquillo","km,22",42
+"797","Tasquillo","km,24",42
+"798","Tasquillo","km,26",42
+"799","Tecozautla","Km,0",18
+"800","Tecozautla","Km,2",41
+"801","Tecozautla","Km,4",40
+"802","Tecozautla","Km,6",43
+"803","Tecozautla","Km,8",44
+"804","Tecozautla","km,10",44
+"805","Tecozautla","km,12",45
+"806","Tecozautla","km,14",45
+"807","Tecozautla","km,16",45
+"808","Tecozautla","km,18",45
+"809","Tecozautla","km,20",45
+"810","Tecozautla","km,22",45
+"811","Tecozautla","km,24",45
+"812","Tecozautla","km,26",45
+"813","Tenango De Doria","Km,0",78
+"814","Tenango De Doria","Km,2",67
+"815","Tenango De Doria","Km,4",64
+"816","Tenango De Doria","Km,6",65
+"817","Tenango De Doria","Km,8",65
+"818","Tenango De Doria","km,10",65
+"819","Tenango De Doria","km,12",65
+"820","Tenango De Doria","km,14",65
+"821","Tenango De Doria","km,16",65
+"822","Tenango De Doria","km,18",64
+"823","Tenango De Doria","km,20",64
+"824","Tenango De Doria","km,22",64
+"825","Tenango De Doria","km,24",64
+"826","Tenango De Doria","km,26",64
+"827","Tepeapulco","Km,0",7
+"828","Tepeapulco","Km,2",8
+"829","Tepeapulco","Km,4",11
+"830","Tepeapulco","Km,6",11
+"831","Tepeapulco","Km,8",8
+"832","Tepeapulco","km,10",7
+"833","Tepeapulco","km,12",6
+"834","Tepeapulco","km,14",6
+"835","Tepeapulco","km,16",6
+"836","Tepeapulco","km,18",6
+"837","Tepeapulco","km,20",5
+"838","Tepeapulco","km,22",5
+"839","Tepeapulco","km,24",3
+"840","Tepeapulco","km,26",3
+"841","Tepehuacan","Km,0",63
+"842","Tepehuacan","Km,2",78
+"843","Tepehuacan","Km,4",81
+"844","Tepehuacan","Km,6",81
+"845","Tepehuacan","Km,8",81
+"846","Tepehuacan","km,10",80
+"847","Tepehuacan","km,12",80
+"848","Tepehuacan","km,14",80
+"849","Tepehuacan","km,16",80
+"850","Tepehuacan","km,18",80
+"851","Tepehuacan","km,20",80
+"852","Tepehuacan","km,22",80
+"853","Tepehuacan","km,24",80
+"854","Tepehuacan","km,26",80
+"855","Tepeji Del Rio De Ocampo","Km,0",3
+"856","Tepeji Del Rio De Ocampo","Km,2",3
+"857","Tepeji Del Rio De Ocampo","Km,4",2
+"858","Tepeji Del Rio De Ocampo","Km,6",1
+"859","Tepeji Del Rio De Ocampo","Km,8",1
+"860","Tepeji Del Rio De Ocampo","km,10",1
+"861","Tepeji Del Rio De Ocampo","km,12",1
+"862","Tepeji Del Rio De Ocampo","km,14",1
+"863","Tepeji Del Rio De Ocampo","km,16",1
+"864","Tepeji Del Rio De Ocampo","km,18",1
+"865","Tepeji Del Rio De Ocampo","km,20",1
+"866","Tepeji Del Rio De Ocampo","km,22",1
+"867","Tepeji Del Rio De Ocampo","km,24",1
+"868","Tepeji Del Rio De Ocampo","km,26",1
+"869","Tepetitlan","Km,0",51
+"870","Tepetitlan","Km,2",58
+"871","Tepetitlan","Km,4",56
+"872","Tepetitlan","Km,6",55
+"873","Tepetitlan","Km,8",55
+"874","Tepetitlan","km,10",53
+"875","Tepetitlan","km,12",53
+"876","Tepetitlan","km,14",53
+"877","Tepetitlan","km,16",52
+"878","Tepetitlan","km,18",52
+"879","Tepetitlan","km,20",52
+"880","Tepetitlan","km,22",52
+"881","Tepetitlan","km,24",52
+"882","Tepetitlan","km,26",52
+"883","Tetepango","Km,0",41
+"884","Tetepango","Km,2",50
+"885","Tetepango","Km,4",49
+"886","Tetepango","Km,6",47
+"887","Tetepango","Km,8",47
+"888","Tetepango","km,10",47
+"889","Tetepango","km,12",47
+"890","Tetepango","km,14",47
+"891","Tetepango","km,16",47
+"892","Tetepango","km,18",46
+"893","Tetepango","km,20",46
+"894","Tetepango","km,22",46
+"895","Tetepango","km,24",46
+"896","Tetepango","km,26",46
+"897","Villa De Tezontepec","Km,0",42
+"898","Villa De Tezontepec","Km,2",23
+"899","Villa De Tezontepec","Km,4",24
+"900","Villa De Tezontepec","Km,6",26
+"901","Villa De Tezontepec","Km,8",28
+"902","Villa De Tezontepec","km,10",28
+"903","Villa De Tezontepec","km,12",28
+"904","Villa De Tezontepec","km,14",28
+"905","Villa De Tezontepec","km,16",28
+"906","Villa De Tezontepec","km,18",28
+"907","Villa De Tezontepec","km,20",28
+"908","Villa De Tezontepec","km,22",28
+"909","Villa De Tezontepec","km,24",28
+"910","Villa De Tezontepec","km,26",28
+"911","Tezontepec De Aldama","Km,0",27
+"912","Tezontepec De Aldama","Km,2",48
+"913","Tezontepec De Aldama","Km,4",43
+"914","Tezontepec De Aldama","Km,6",40
+"915","Tezontepec De Aldama","Km,8",40
+"916","Tezontepec De Aldama","km,10",39
+"917","Tezontepec De Aldama","km,12",39
+"918","Tezontepec De Aldama","km,14",38
+"919","Tezontepec De Aldama","km,16",38
+"920","Tezontepec De Aldama","km,18",37
+"921","Tezontepec De Aldama","km,20",37
+"922","Tezontepec De Aldama","km,22",37
+"923","Tezontepec De Aldama","km,24",37
+"924","Tezontepec De Aldama","km,26",37
+"925","Tianguistengo","Km,0",64
+"926","Tianguistengo","Km,2",75
+"927","Tianguistengo","Km,4",73
+"928","Tianguistengo","Km,6",72
+"929","Tianguistengo","Km,8",72
+"930","Tianguistengo","km,10",72
+"931","Tianguistengo","km,12",72
+"932","Tianguistengo","km,14",72
+"933","Tianguistengo","km,16",72
+"934","Tianguistengo","km,18",72
+"935","Tianguistengo","km,20",72
+"936","Tianguistengo","km,22",72
+"937","Tianguistengo","km,24",72
+"938","Tianguistengo","km,26",72
+"939","Tizayuca","Km,0",2
+"940","Tizayuca","Km,2",1
+"941","Tizayuca","Km,4",1
+"942","Tizayuca","Km,6",2
+"943","Tizayuca","Km,8",2
+"944","Tizayuca","km,10",3
+"945","Tizayuca","km,12",3
+"946","Tizayuca","km,14",3
+"947","Tizayuca","km,16",3
+"948","Tizayuca","km,18",3
+"949","Tizayuca","km,20",3
+"950","Tizayuca","km,22",3
+"951","Tizayuca","km,24",4
+"952","Tizayuca","km,26",4
+"953","Tlahuelilpan","Km,0",43
+"954","Tlahuelilpan","Km,2",10
+"955","Tlahuelilpan","Km,4",7
+"956","Tlahuelilpan","Km,6",7
+"957","Tlahuelilpan","Km,8",7
+"958","Tlahuelilpan","km,10",10
+"959","Tlahuelilpan","km,12",10
+"960","Tlahuelilpan","km,14",10
+"961","Tlahuelilpan","km,16",10
+"962","Tlahuelilpan","km,18",10
+"963","Tlahuelilpan","km,20",10
+"964","Tlahuelilpan","km,22",10
+"965","Tlahuelilpan","km,24",10
+"966","Tlahuelilpan","km,26",10
+"967","Tlahuiltepa","Km,0",65
+"968","Tlahuiltepa","Km,2",73
+"969","Tlahuiltepa","Km,4",74
+"970","Tlahuiltepa","Km,6",73
+"971","Tlahuiltepa","Km,8",73
+"972","Tlahuiltepa","km,10",73
+"973","Tlahuiltepa","km,12",73
+"974","Tlahuiltepa","km,14",73
+"975","Tlahuiltepa","km,16",73
+"976","Tlahuiltepa","km,18",73
+"977","Tlahuiltepa","km,20",73
+"978","Tlahuiltepa","km,22",73
+"979","Tlahuiltepa","km,24",73
+"980","Tlahuiltepa","km,26",73
+"981","Tlanalapa","Km,0",44
+"982","Tlanalapa","Km,2",19
+"983","Tlanalapa","Km,4",21
+"984","Tlanalapa","Km,6",22
+"985","Tlanalapa","Km,8",22
+"986","Tlanalapa","km,10",24
+"987","Tlanalapa","km,12",25
+"988","Tlanalapa","km,14",26
+"989","Tlanalapa","km,16",26
+"990","Tlanalapa","km,18",27
+"991","Tlanalapa","km,20",27
+"992","Tlanalapa","km,22",27
+"993","Tlanalapa","km,24",27
+"994","Tlanalapa","km,26",27
+"995","Tlanchinol","Km,0",52
+"996","Tlanchinol","Km,2",70
+"997","Tlanchinol","Km,4",69
+"998","Tlanchinol","Km,6",69
+"999","Tlanchinol","Km,8",69
+"1000","Tlanchinol","km,10",69
+"1001","Tlanchinol","km,12",69
+"1002","Tlanchinol","km,14",69
+"1003","Tlanchinol","km,16",69
+"1004","Tlanchinol","km,18",69
+"1005","Tlanchinol","km,20",69
+"1006","Tlanchinol","km,22",69
+"1007","Tlanchinol","km,24",69
+"1008","Tlanchinol","km,26",69
+"1009","Tlaxcoapan","Km,0",29
+"1010","Tlaxcoapan","Km,2",38
+"1011","Tlaxcoapan","Km,4",37
+"1012","Tlaxcoapan","Km,6",38
+"1013","Tlaxcoapan","Km,8",38
+"1014","Tlaxcoapan","km,10",37
+"1015","Tlaxcoapan","km,12",37
+"1016","Tlaxcoapan","km,14",37
+"1017","Tlaxcoapan","km,16",37
+"1018","Tlaxcoapan","km,18",38
+"1019","Tlaxcoapan","km,20",38
+"1020","Tlaxcoapan","km,22",38
+"1021","Tlaxcoapan","km,24",38
+"1022","Tlaxcoapan","km,26",38
+"1023","Tolcayuca","Km,0",19
+"1024","Tolcayuca","Km,2",14
+"1025","Tolcayuca","Km,4",13
+"1026","Tolcayuca","Km,6",12
+"1027","Tolcayuca","Km,8",12
+"1028","Tolcayuca","km,10",9
+"1029","Tolcayuca","km,12",8
+"1030","Tolcayuca","km,14",8
+"1031","Tolcayuca","km,16",8
+"1032","Tolcayuca","km,18",8
+"1033","Tolcayuca","km,20",8
+"1034","Tolcayuca","km,22",9
+"1035","Tolcayuca","km,24",9
+"1036","Tolcayuca","km,26",9
+"1037","Tula De Allende","Km,0",9
+"1038","Tula De Allende","Km,2",6
+"1039","Tula De Allende","Km,4",6
+"1040","Tula De Allende","Km,6",6
+"1041","Tula De Allende","Km,8",6
+"1042","Tula De Allende","km,10",6
+"1043","Tula De Allende","km,12",7
+"1044","Tula De Allende","km,14",7
+"1045","Tula De Allende","km,16",7
+"1046","Tula De Allende","km,18",7
+"1047","Tula De Allende","km,20",7
+"1048","Tula De Allende","km,22",7
+"1049","Tula De Allende","km,24",7
+"1050","Tula De Allende","km,26",7
+"1051","Tulancingo De Bravo","Km,0",6
+"1052","Tulancingo De Bravo","Km,2",9
+"1053","Tulancingo De Bravo","Km,4",12
+"1054","Tulancingo De Bravo","Km,6",13
+"1055","Tulancingo De Bravo","Km,8",13
+"1056","Tulancingo De Bravo","km,10",13
+"1057","Tulancingo De Bravo","km,12",13
+"1058","Tulancingo De Bravo","km,14",13
+"1059","Tulancingo De Bravo","km,16",13
+"1060","Tulancingo De Bravo","km,18",13
+"1061","Tulancingo De Bravo","km,20",13
+"1062","Tulancingo De Bravo","km,22",13
+"1063","Tulancingo De Bravo","km,24",13
+"1064","Tulancingo De Bravo","km,26",13
+"1065","Xochiatipan","Km,0",79
+"1066","Xochiatipan","Km,2",82
+"1067","Xochiatipan","Km,4",79
+"1068","Xochiatipan","Km,6",79
+"1069","Xochiatipan","Km,8",78
+"1070","Xochiatipan","km,10",78
+"1071","Xochiatipan","km,12",78
+"1072","Xochiatipan","km,14",78
+"1073","Xochiatipan","km,16",78
+"1074","Xochiatipan","km,18",78
+"1075","Xochiatipan","km,20",78
+"1076","Xochiatipan","km,22",78
+"1077","Xochiatipan","km,24",78
+"1078","Xochiatipan","km,26",78
+"1079","Xochicoatlan","Km,0",53
+"1080","Xochicoatlan","Km,2",77
+"1081","Xochicoatlan","Km,4",77
+"1082","Xochicoatlan","Km,6",76
+"1083","Xochicoatlan","Km,8",76
+"1084","Xochicoatlan","km,10",76
+"1085","Xochicoatlan","km,12",76
+"1086","Xochicoatlan","km,14",76
+"1087","Xochicoatlan","km,16",76
+"1088","Xochicoatlan","km,18",76
+"1089","Xochicoatlan","km,20",76
+"1090","Xochicoatlan","km,22",76
+"1091","Xochicoatlan","km,24",76
+"1092","Xochicoatlan","km,26",76
+"1093","Yahualica","Km,0",70
+"1094","Yahualica","Km,2",51
+"1095","Yahualica","Km,4",53
+"1096","Yahualica","Km,6",56
+"1097","Yahualica","Km,8",57
+"1098","Yahualica","km,10",57
+"1099","Yahualica","km,12",57
+"1100","Yahualica","km,14",57
+"1101","Yahualica","km,16",57
+"1102","Yahualica","km,18",57
+"1103","Yahualica","km,20",57
+"1104","Yahualica","km,22",57
+"1105","Yahualica","km,24",57
+"1106","Yahualica","km,26",57
+"1107","Zacualtipan","Km,0",54
+"1108","Zacualtipan","Km,2",31
+"1109","Zacualtipan","Km,4",34
+"1110","Zacualtipan","Km,6",36
+"1111","Zacualtipan","Km,8",36
+"1112","Zacualtipan","km,10",36
+"1113","Zacualtipan","km,12",36
+"1114","Zacualtipan","km,14",36
+"1115","Zacualtipan","km,16",36
+"1116","Zacualtipan","km,18",36
+"1117","Zacualtipan","km,20",36
+"1118","Zacualtipan","km,22",36
+"1119","Zacualtipan","km,24",36
+"1120","Zacualtipan","km,26",36
+"1121","Zapotlan","Km,0",38
+"1122","Zapotlan","Km,2",37
+"1123","Zapotlan","Km,4",33
+"1124","Zapotlan","Km,6",31
+"1125","Zapotlan","Km,8",31
+"1126","Zapotlan","km,10",31
+"1127","Zapotlan","km,12",31
+"1128","Zapotlan","km,14",31
+"1129","Zapotlan","km,16",31
+"1130","Zapotlan","km,18",30
+"1131","Zapotlan","km,20",30
+"1132","Zapotlan","km,22",30
+"1133","Zapotlan","km,24",30
+"1134","Zapotlan","km,26",30
+"1135","Zempoala","Km,0",21
+"1136","Zempoala","Km,2",32
+"1137","Zempoala","Km,4",32
+"1138","Zempoala","Km,6",33
+"1139","Zempoala","Km,8",32
+"1140","Zempoala","km,10",32
+"1141","Zempoala","km,12",32
+"1142","Zempoala","km,14",32
+"1143","Zempoala","km,16",32
+"1144","Zempoala","km,18",32
+"1145","Zempoala","km,20",33
+"1146","Zempoala","km,22",33
+"1147","Zempoala","km,24",34
+"1148","Zempoala","km,26",34
+"1149","Zimapan","Km,0",45
+"1150","Zimapan","Km,2",65
+"1151","Zimapan","Km,4",75
+"1152","Zimapan","Km,6",77
+"1153","Zimapan","Km,8",80
+"1154","Zimapan","km,10",81
+"1155","Zimapan","km,12",81
+"1156","Zimapan","km,14",81
+"1157","Zimapan","km,16",82
+"1158","Zimapan","km,18",82
+"1159","Zimapan","km,20",82
+"1160","Zimapan","km,22",82
+"1161","Zimapan","km,24",82
+"1162","Zimapan","km,26",82

@@ -1,0 +1,36 @@
+####################
+#  COPIAR TEXTO    #
+#                  #
+####################
+#ALUMNA-. JESSICA PAOLA AGUILAR SERVIN
+
+# Laboratorio - PIVOTAR A LO LARGO
+
+#PAQUETE TIDYVERSE Y REARD
+library(tidyverse)
+library (readr)
+
+#CARGAR DATOS
+
+library(readr)
+tabla1 <- read_csv("SEMESTRE TRES ENE-JUL 23/correcion-ice_CHARTICULATOR.csv")
+View("correcion_ice_CHARTICULATOR")
+
+names(tabla1)
+
+
+# 1. Pivotar tabla  "A LO LARGO"
+
+t1_PIVOTANTE = tabla1%>%  
+
+pivot_longer(cols=c("Km,0","Km,2","Km,4","Km,6","Km,8","km,10","km,12","km,14","km,16","km,18","km,20","km,22","km,24","km,26"), names_to = "iteracion", values_to = "ranking")
+View(t1_PIVOTANTE)
+
+# Exportar resultado: tabla ordenada
+write.csv(t1_PIVOTANTE, file = "correcion-ice_CHARTICULATOR.csv")
+
+
+getwd()
+setwd("C:/Users/gusta/OneDrive/Documents/DOCTORADO 2022")
+
+

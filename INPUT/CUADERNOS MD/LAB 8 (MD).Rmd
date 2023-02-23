@@ -1,0 +1,87 @@
+---
+title: "LAB 8 (MD)"
+author: "JESSICA PAOLA AGUILAR SERVIN"
+date: "2023-02-23"
+output: html_document
+---
+
+#######################################
+LABORATORIO: Relacionamiento (r)     
+#######################################
+
+
+1.Cómo se mide la proximidad (relatedness) para crear el espacio producto
+Material: Balland, P.A. (2017) Economic Geography in R: Introduction to the EconGeo Package, Papers in Evolutionary Economic Geography, 17 (09): 1-75 
+Para instalar: https://www.paballand.com/install-r
+
+```{r}
+library (EconGeo)
+```
+
+CREAMOS MATRIZ
+
+```{r}
+M = as.matrix(
+  read.csv("https://raw.githubusercontent.com/PABalland/ON/master/amz.csv" , 
+           sep = ",", 
+           header = T, 
+           row.names = 1))
+```
+
+LLAMAMOS A LA MATRIZ
+```{r}
+M
+```
+
+co-ocurrencia entre personas/paises/estados
+```{r}
+ co.occurrence (M)
+```
+
+co-ocurrencia entre productos t es transpuesta
+```{r}
+c= co.occurrence(t(M))
+```
+
+VISUALIZAMOS MATRIZ
+```{r}
+c
+```
+
+Estima el relacionamiento o proximidad pero normalizado, para asegurar que el numero de co ocurrencias que observamos, es mayor al numero de co ocurrencias probables (probailidad condicional)
+tie and Surfboard puede que no esten tan relacionados, abajo de  1 no es relacionado mientras que mayor a 1 si es relacionado
+ 
+```{r}
+r = relatedness (c)
+```
+
+LLAMAR MATRIZ
+```{r}
+r
+```
+ 
+REGLA DE ALGORITMO
+Ejecutar la regla: si el relacionamiento es menor a 1 = 0 (no habra arista que ligue producto) y si es mayor a 1 = 1 (si habra arista que ligue producto)
+ 
+```{r}
+r[r<1]= 0
+r[r>1]= 1
+```
+
+CARGAR LIBRERIA PARA HACER EL GRÁFICO
+```{r}
+library (igraph)
+```
+
+
+INSTRUCCION PARA HACER EL GRÁFICO
+```{r}
+g1 = graph_from_adjacency_matrix (r, mode = "undirected")
+```
+
+VER EL GRAFICO
+```{r}
+plot(g1)
+```
+
+

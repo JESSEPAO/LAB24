@@ -1,0 +1,86 @@
+-----------------------------------------------
+title: "LAB 20"
+author: "JESSICA PAOLA AGUILAR SERVIN"
+date: "2023-02-23"
+output: html_document
+--------------------------------------------------
+
+# LABORATORIO - Gráficos en R con ggplot2 
+# faceting (romper un gráfica en varias dentro de una cuadrícula)
+
+
+Instalando paquete 
+cargar libreria ggplot2 
+```{r}
+library(ggplot2)
+```
+
+Buscar Dataframe
+file.choose
+Leer base
+```{r}
+densidad_verde <- read.csv("~/GitHub/JPAS_LABS24/INPUT/CUADERNOS MD/PARA FACETING.csv")
+```
+
+Ver nombres 
+
+```{r}
+names(densidad_verde)
+```
+
+Crear grafica base
+```{r}
+p <- ggplot(data= densidad_verde,
+            mapping = aes(x= DENSITY,
+                          y= PCI.2018,
+                          color= Region))+
+  geom_point()
+
+```
+
+Ver objeto p
+```{r}
+p
+```
+
+Manipular talbas
+facet_wrap (recomendado con una variable)
+```{r}
+p + facet_wrap(~ Region)
+```
+
+Manipulando número de filas
+```{r}
+p + facet_wrap( ~ Region, nrow = 3)
+```
+
+Manipulando número de columnas
+```{r}
+p + facet_wrap(~ Region, ncol = 5)
+
+```
+
+CREAR UN SEGUNDO GRAFICO
+segunda opcion invertida
+crear objeto p
+llamar p
+
+```{r}
+p
+```
+
+fFacet_wrap (recomendado con una variable)
+```{r}
+p + facet_wrap(~ Region)
+```
+
+Manipulando número de filas
+```{r}
+p + facet_wrap( ~ Region, nrow = 5)
+```
+
+Manipulando número de columnas
+```{r}
+p + facet_wrap(~ Region, ncol = 3)
+```
+

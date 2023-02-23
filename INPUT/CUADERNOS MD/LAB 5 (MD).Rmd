@@ -1,0 +1,60 @@
+---
+title: "LAB5-MD-"
+author: "JESSICA PAOLA AGUILAR SERVIN"
+date: "2023-02-23"
+output: html_document
+---
+
+Laboratorio - PIVOTAR A LO LARGO
+
+Instalar paquetes
+Cargar paquete tidyverse y readr
+
+```{r}
+library(tidyverse)
+library(readr)
+```
+
+CARGAR DATOS. Importar Dataset- Seccionar archivo ICE 2014
+
+```{r}
+library(readr)
+tabla1 <- read_csv("~/DOCTORADO 2022/SEMESTRE TRES ENE-JUL 23/correcionice-2014-lab5.csv")
+```
+
+ VER LA TABLA
+```{r}
+head(tabla1)
+```
+ 
+NOMBRAR TABLA PARA VER TODAS LAS COLUMNAS
+
+```{r}
+names(tabla1)
+```
+
+paso 1.- Pivotar tabla "A LO LARGO"
+
+```{r}
+t1_PIVOTANTE = tabla1%>%
+pivot_longer (cols=c("Km,0","Km,2","Km,4","Km,6","Km,8","km,10","km,12","km,14","km,16","km,18","km,20","km,22","km,24","km,26"), names_to = "iteracion", values_to = "ranking")
+```
+
+Ver pivotante
+
+```{r}
+View(t1_PIVOTANTE)
+```
+
+Exportar resultado: tabla ordenada
+
+```{r}
+write.csv(t1_PIVOTANTE, file = "ice_CHARTICULATOR.csv")
+```
+
+Escribir y guardar resultados
+
+```{r}
+getwd()
+setwd("C:/Users/gusta/OneDrive/Documents/GitHub/JPAS_LABS24/INPUT/CUADERNOS MD")
+```
