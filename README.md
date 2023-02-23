@@ -1,2 +1,2 @@
-# LAB24
+# LAB_24
 Cuadernos R(MD)
